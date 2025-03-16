@@ -15,7 +15,6 @@ This is a hybrid product recommendation system that integrates collaborative fil
 - [Usage](#usage)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Project Overview
 This recommendation system leverages a hybrid approach, combining collaborative filtering and content-based filtering techniques to provide personalized product recommendations. The system was tested and trained on Amazon product datasets, containing 2 million customer reviews and ratings. It achieved a recommendation accuracy of approximately 90%, enhancing the user experience by offering relevant product suggestions.
@@ -67,9 +66,5 @@ The recommendation system uses Amazon product datasets containing 2 million cust
 - Implement additional algorithms, such as matrix factorization and neural networks, for enhanced recommendation accuracy.
 - Add more product filters and user profile customization options.
 - Deploy the application as a web-based service for broader accessibility.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
